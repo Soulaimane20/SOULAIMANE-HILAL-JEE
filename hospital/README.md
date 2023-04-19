@@ -42,7 +42,7 @@ RESULTAT:
 ![patient h](https://user-images.githubusercontent.com/94021293/230784790-f94ef257-a677-4856-97e4-54ade0031ea9.png)
 
 
-![medc h2](https://user-images.githubusercontent.com/94021293/230784806-52ee82fb-89ab-489c-aa99-bbcf2e892791.png)
+<img width="606" alt="ljadid" src="https://user-images.githubusercontent.com/106871413/232965074-7e345da6-165b-4ca4-adb5-e7b16179d575.png">
 
 
 ![rdv h](https://user-images.githubusercontent.com/94021293/230784811-c869e38c-1f53-46ef-a93c-e50ef58b023e.png)
