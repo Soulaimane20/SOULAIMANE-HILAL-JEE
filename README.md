@@ -14,3 +14,7 @@
 #### part 1 : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/jpa-ap
 
 - report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/blob/main/jpa-ap/README.md
+
+#### part 2 : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/hospital
+
+- report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/blob/main/hospital/README.md
