@@ -8,7 +8,4 @@
 #### part 1 : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/enset_ioc
 
 - report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/edit/main/enset_ioc/README.md
-
-#### part 2 :
-
-- report : 
+  
