@@ -27,7 +27,8 @@ Package web :
 
 HospitalApplication:
 
-![hosp app](https://user-images.githubusercontent.com/94021293/230784715-0ec40311-34ed-49be-8bc5-0376ac18be74.png)
+<img width="955" alt="ljadid2" src="https://user-images.githubusercontent.com/106871413/232966325-e457f0a2-0eba-405e-a63b-9d66d78596a8.png">
+
 
 
 Connect H2Database :
