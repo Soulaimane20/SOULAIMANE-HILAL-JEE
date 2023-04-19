@@ -47,7 +47,7 @@ RESULTAT:
 
 ![rdv h](https://user-images.githubusercontent.com/94021293/230784811-c869e38c-1f53-46ef-a93c-e50ef58b023e.png)
 
-![json patie](https://user-images.githubusercontent.com/94021293/230784816-f0bce55b-d0a4-4be2-a2e0-75e281771fee.png)
+
 
 
 
