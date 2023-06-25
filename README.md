@@ -2,11 +2,11 @@
 
 - Lien vers [back-end]+Rapport :
   
- https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/ebanking-backend
+https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/ebanking-backend
 
 - Lien vers [front-end]+Rapport :
   
-  https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/digital-banking-angular-front
+https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/digital-banking-angular-front
 
   
   
