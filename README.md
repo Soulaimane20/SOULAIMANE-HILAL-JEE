@@ -39,5 +39,5 @@
 ## Activity 5 :
 
 - https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/ebanking-backend
-- 
 
+- https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/digital-banking-angular-front
