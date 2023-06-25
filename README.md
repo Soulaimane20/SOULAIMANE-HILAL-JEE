@@ -34,7 +34,7 @@
   - report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/blob/main/patients-mvc/README.md
 ## Activity 4 :
 
-- https://github.com/Abderrahmane55/ellaouzi_abderrahmane_JEE/tree/main/jpa-ap2%20secured
+- https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/jpa-ap2%20secured
 
 ## Activity 5 :
 
