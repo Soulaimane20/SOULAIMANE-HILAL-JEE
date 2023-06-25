@@ -27,8 +27,8 @@ Mise en oeuvre de l'injection des dépendances
 ## Activity 3
 Spring Boot Spring MVC avec Thymeleaf Spring Data, Spring Security
   
-#### part 1 : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/patients-mvc
-  - report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/blob/main/patients-mvc/README.md
+- https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/patients-mvc
+- report : https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/blob/main/patients-mvc/README.md
 ## Activity 4 :
 
 - https://github.com/Soulaimane20/SOULAIMANE-HILAL-JEE/tree/main/jpa-ap2%20secured
